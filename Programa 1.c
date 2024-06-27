@@ -1,8 +1,5 @@
 #include <stdio.h>
 
-//Samuel Marinho de Carvalho - 202403616441;//
-//Samuel Silva de Jesus - sem matricula,por enquanto.//
-
 int main(){
     float nota1,nota2,nota3;
     float media;
